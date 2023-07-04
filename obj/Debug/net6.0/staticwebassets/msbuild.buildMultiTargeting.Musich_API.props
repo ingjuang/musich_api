@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Musich_API.props" />
+</Project>
